@@ -1,0 +1,409 @@
+{
+  "checked": "2026-10-27",
+  "sources": [
+    "https://support.apple.com/en-us/108044",
+    "https://support.apple.com/en-us/108043",
+    "https://support.apple.com/en-us/108056",
+    "https://support.apple.com/en-us/102869",
+    "https://support.apple.com/en-us/108052",
+    "https://www.apple.com/ipad-mini/"
+  ],
+  "models": {
+    "iPhone Duo": [
+      {
+        "model": "iPhone Duo",
+        "alt": "Three iPhone devices shown side-by-side, one with a Night Sky finish another with a Star White finish, and the third displaying a desert landscape on its screen.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-duo/iphone-duo-colors.png",
+        "local": "/assets/images/models/iphone-duo-colors.png"
+      }
+    ],
+    "iPhone 18 Pro Max": [
+      {
+        "model": "iPhone 18 Pro Max",
+        "alt": "iPhone devices in different colors, displayed side by side.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-18-pro-max-colors.png",
+        "local": "/assets/images/models/iphone-18-pro-max-colors.png"
+      }
+    ],
+    "iPhone 18 Pro": [
+      {
+        "model": "iPhone 18 Pro",
+        "alt": "iPhone devices in different colors, displayed side by side.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-18-pro-colors.png",
+        "local": "/assets/images/models/iphone-18-pro-colors.png"
+      }
+    ],
+    "iPhone 17 Pro Max": [
+      {
+        "model": "iPhone 17 Pro Max",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
+        "local": "/assets/images/models/iphone-17-pro-max-colors.png"
+      }
+    ],
+    "iPhone 17 Pro": [
+      {
+        "model": "iPhone 17 Pro",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
+        "local": "/assets/images/models/iphone-17-pro-colors.png"
+      }
+    ],
+    "iPhone Air": [
+      {
+        "model": "iPhone Air",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
+        "local": "/assets/images/models/iphone-air-colors.png"
+      }
+    ],
+    "iPhone 16 Pro Max": [
+      {
+        "model": "iPhone 16 Pro Max",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-max-colors.png",
+        "local": "/assets/images/models/iphone-16-pro-max-colors.png"
+      }
+    ],
+    "iPhone 16 Pro": [
+      {
+        "model": "iPhone 16 Pro",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png",
+        "local": "/assets/images/models/iphone-16-pro-colors.png"
+      }
+    ],
+    "iPhone 17 / Plus": [
+      {
+        "model": "iPhone 17",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png",
+        "local": "/assets/images/models/iphone-17-colors.png"
+      }
+    ],
+    "iPhone 16 / Plus": [
+      {
+        "model": "iPhone 16",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-colors.png",
+        "local": "/assets/images/models/iphone-16-colors.png"
+      },
+      {
+        "model": "iPhone 16 Plus",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png",
+        "local": "/assets/images/models/iphone-16-plus-colors.png"
+      }
+    ],
+    "iPhone 15 Series": [
+      {
+        "model": "iPhone 15",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15.png",
+        "local": "/assets/images/models/fall-2023-iphone-colors-iphone-15.png"
+      },
+      {
+        "model": "iPhone 15 Plus",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-plus.png",
+        "local": "/assets/images/models/fall-2023-iphone-colors-iphone-15-plus.png"
+      },
+      {
+        "model": "iPhone 15 Pro",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro.png",
+        "local": "/assets/images/models/fall-2023-iphone-colors-iphone-15-pro.png"
+      },
+      {
+        "model": "iPhone 15 Pro Max",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro-max.png",
+        "local": "/assets/images/models/fall-2023-iphone-colors-iphone-15-pro-max.png"
+      }
+    ],
+    "iPhone 14 Series": [
+      {
+        "model": "iPhone 14",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png",
+        "local": "/assets/images/models/iphone-14-colors-spring-2023.png"
+      },
+      {
+        "model": "iPhone 14 Plus",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png",
+        "local": "/assets/images/models/iphone-14-plus-colors-spring-2023.png"
+      },
+      {
+        "model": "iPhone 14 Pro",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-colors.png",
+        "local": "/assets/images/models/iphone-14-pro-colors.png"
+      },
+      {
+        "model": "iPhone 14 Pro Max",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-max-colors.png",
+        "local": "/assets/images/models/iphone-14-pro-max-colors.png"
+      }
+    ],
+    "iPhone 13 Series & Below": [
+      {
+        "model": "iPhone 13",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png",
+        "local": "/assets/images/models/2022-spring-iphone13-colors.png"
+      },
+      {
+        "model": "iPhone 13 mini",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png",
+        "local": "/assets/images/models/2022-iphone13-mini-colors.png"
+      },
+      {
+        "model": "iPhone 13 Pro",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png",
+        "local": "/assets/images/models/2022-spring-iphone13-pro-colors.png"
+      },
+      {
+        "model": "iPhone 13 Pro Max",
+        "alt": "The backs of several iPhone devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png",
+        "local": "/assets/images/models/2022-spring-iphone13-pro-max-colors.png"
+      }
+    ],
+    "MacBook Pro 16\" M4/M5": [
+      {
+        "model": "MacBook Pro (16-inch, 2024)",
+        "alt": "MacBook Pro (16-inch, 2024) in Silver and Space Black.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2024-colors.png",
+        "local": "/assets/images/models/macbook-pro-16in-2024-colors.png"
+      },
+      {
+        "model": "MacBook Pro (16-inch, M5 Pro or M5 Max)",
+        "alt": "MacBook Pro (16-inch, M5 Pro or M5 Max) in Silver and Space Black.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m5-pro-m5-max.png",
+        "local": "/assets/images/models/macbook-pro-16in-m5-pro-m5-max.png"
+      }
+    ],
+    "MacBook Pro 14\" M3/M4": [
+      {
+        "model": "MacBook Pro (14-inch, Nov 2023)",
+        "alt": "MacBook Pro (14-inch, Nov 2023) in Silver and Space Gray.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m3-nov-2023-silver-space-gray.png",
+        "local": "/assets/images/models/macbook-pro-14in-m3-nov-2023-silver-space-gray.png"
+      },
+      {
+        "model": "MacBook Pro (14-inch, 2024)",
+        "alt": "MacBook Pro (14-inch, 2024) in Silver and Space Black.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2024-m4-colors.png",
+        "local": "/assets/images/models/macbook-pro-14in-2024-m4-colors.png"
+      }
+    ],
+    "MacBook Air 15\" M2/M3": [
+      {
+        "model": "MacBook Air (15-inch, M2, 2023)",
+        "alt": "Front of MacBook Air (15-inch, M2, 2023).",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2023-macbook-air-15in-m2-colors.png",
+        "local": "/assets/images/models/2023-macbook-air-15in-m2-colors.png"
+      },
+      {
+        "model": "MacBook Air (15-inch, M3, 2024)",
+        "alt": "Front of MacBook Air (15-inch, M3, 2024).",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-15in-m3-colors.png",
+        "local": "/assets/images/models/2024-macbook-air-15in-m3-colors.png"
+      }
+    ],
+    "MacBook Air 13\" M2/M3": [
+      {
+        "model": "MacBook Air (M2, 2022)",
+        "alt": "Front of MacBook Air (M2, 2022).",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2022-macbook-air-m2-colors.png",
+        "local": "/assets/images/models/2022-macbook-air-m2-colors.png"
+      },
+      {
+        "model": "MacBook Air (13-inch, M3, 2024)",
+        "alt": "Front of MacBook Air (13-inch, M3, 2024).",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-13in-m3-colors.png",
+        "local": "/assets/images/models/2024-macbook-air-13in-m3-colors.png"
+      }
+    ],
+    "MacBook Pro 13\" M1/M2": [
+      {
+        "model": "MacBook Pro (13-inch, M1, 2020)",
+        "alt": "MacBook Pro (13-inch, M1, 2020) in Silver and Space Gray.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-late-13in-device.jpg",
+        "local": "/assets/images/models/macbook-pro-2020-late-13in-device.jpg"
+      },
+      {
+        "model": "MacBook Pro (13-inch, M2, 2022)",
+        "alt": "MacBook Pro (13-inch, M2, 2022) in Silver and Space Gray.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-13-in-M2-2022.png",
+        "local": "/assets/images/models/macbook-pro-13-in-M2-2022.png"
+      }
+    ],
+    "MacBook Air M1": [
+      {
+        "model": "MacBook Air (M1, 2020)",
+        "url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111883_macbookair.png",
+        "local": "/assets/images/models/macbook-air-m1-transparent.png"
+      }
+    ],
+    "iPad Pro 13\" M5": [
+      {
+        "model": "iPad Pro 13-inch (M5)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-13in.png",
+        "local": "/assets/images/models/fall-2025-ipad-pro-m5-13in.png"
+      }
+    ],
+    "iPad Pro 11\" M4": [
+      {
+        "model": "iPad Pro 11-inch (M4)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-2.png",
+        "local": "/assets/images/models/spring-2024-2.png"
+      }
+    ],
+    "iPad Air 13\" M3": [
+      {
+        "model": "iPad Air 13-inch (M3)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-13.png",
+        "local": "/assets/images/models/spring-2025-ipad-air-13.png"
+      }
+    ],
+    "iPad Air 11\" M2": [
+      {
+        "model": "iPad Air 11-inch (M2)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-4.png",
+        "local": "/assets/images/models/spring-2024-4.png"
+      }
+    ],
+    "iPad (10th Gen)": [
+      {
+        "model": "iPad (10th generation)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-10-gen-ipad.png",
+        "local": "/assets/images/models/fall-2022-10-gen-ipad.png"
+      }
+    ],
+    "iPad Mini": [
+      {
+        "model": "iPad mini (A17 Pro)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-mini/ipad-mini-2024-colors.png",
+        "local": "/assets/images/models/ipad-mini-2024-colors.png"
+      },
+      {
+        "model": "iPad mini (6th generation)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-2021-colors.png",
+        "local": "/assets/images/models/ipad-mini-2021-colors.png"
+      }
+    ],
+    "Apple Watch Ultra 3": [
+      {
+        "model": "Apple Watch Ultra 3 (GPS + Cellular)",
+        "alt": "Two Apple Watch Ultra 3 (GPS + Cellular) models shown side-by-side in all available colors",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-3-colors.png",
+        "local": "/assets/images/models/apple-watch-ultra-3-colors.png"
+      }
+    ],
+    "Apple Watch Ultra 4": [
+      {
+        "model": "Apple Watch Ultra 4 (GPS + Cellular)",
+        "alt": "Two Apple Watch Ultra 4 (GPS + Cellular) models shown side-by-side in all available colors",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-4.png",
+        "local": "/assets/images/models/apple-watch-ultra-4.png"
+      }
+    ],
+    "Apple Watch Series 10": [
+      {
+        "model": "Apple Watch Series 10 (GPS)",
+        "alt": "Three Apple Watch Series 10 (GPS) models shown side-by-side in all available colors",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-aluminum-gps.png",
+        "local": "/assets/images/models/apple-watch-series-10-aluminum-gps.png"
+      }
+    ],
+    "Apple Watch Series 11": [
+      {
+        "model": "Apple Watch Series 11 (GPS)",
+        "alt": "Four Apple Watch Series 11 (GPS) models shown side-by-side in all available colors",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-aluminum-gps.png",
+        "local": "/assets/images/models/apple-watch-series-11-aluminum-gps.png"
+      }
+    ],
+    "Apple Watch Series 12": [
+      {
+        "model": "Apple Watch Series 12 (GPS)",
+        "alt": "Four Apple Watch Series 12 (GPS) models shown side-by-side in all available colors",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-12-aluminum-gps.png",
+        "local": "/assets/images/models/apple-watch-series-12-aluminum-gps.png"
+      }
+    ],
+    "Apple Watch SE 3": [
+      {
+        "model": "Apple Watch SE 3 (GPS)",
+        "alt": "Two Apple Watch SE 3 (GPS) models shown side-by-side in all available colors",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-se-3.png",
+        "local": "/assets/images/models/apple-watch-se-3.png"
+      }
+    ],
+    "Apple Watch SE": [
+      {
+        "model": "Apple Watch SE (GPS)",
+        "alt": "Three Apple Watch SE (GPS) models shown side-by-side in all available colors",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-000-aluminum-gps-colors.png",
+        "local": "/assets/images/models/apple-watch-series6-000-aluminum-gps-colors.png"
+      },
+      {
+        "model": "Apple Watch SE 2 (GPS)",
+        "alt": "Three Apple Watch SE 2 (GPS) models shown side-by-side in all available colors",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-se-gps.png",
+        "local": "/assets/images/models/fall-2022-watch-series8-se-gps.png"
+      }
+    ],
+    "iPad Pro 11\" M5": [
+      {
+        "model": "iPad Pro 11-inch (M5)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-11in.png",
+        "local": "/assets/images/models/fall-2025-ipad-pro-m5-11in.png"
+      }
+    ],
+    "iPad Air 13\" M4": [
+      {
+        "model": "iPad Air 13-inch (M4)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2026-ipad-air-13.png",
+        "local": "/assets/images/models/spring-2026-ipad-air-13.png"
+      }
+    ],
+    "iPad Air 11\" M4": [
+      {
+        "model": "iPad Air 11-inch (M4)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2026-ipad-air-11.png",
+        "local": "/assets/images/models/spring-2026-ipad-air-11.png"
+      }
+    ],
+    "iPad 11\" (A16)": [
+      {
+        "model": "iPad (A16)",
+        "alt": "The backs of several iPad devices, side by side, in all available colors, followed by the front of one.",
+        "url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad.png",
+        "local": "/assets/images/models/spring-2025-ipad.png"
+      }
+    ],
+    "iPad mini (A20 Pro)": [
+      {
+        "model": "iPad mini (A20 Pro)",
+        "url": "https://www.apple.com/v/ipad-mini/a/images/overview/media-hero/hero_endframe__fa28q2pr6ree_large.png",
+        "local": "/assets/images/models/hero_endframe__fa28q2pr6ree_large.png"
+      }
+    ]
+  }
+}
