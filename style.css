@@ -84,3 +84,17 @@ img.image-dark{display:none}
  .prices-page .price-table-wrap tbody td:last-child a{display:inline-flex;align-items:center;min-height:44px;font-size:15px}
  .prices-page .category-nav{flex-wrap:wrap;overflow:visible;gap:12px 24px}
 }
+
+/* Center the mobile pricing experience; desktop tables retain their alignment. */
+@media(max-width:768px){
+ .prices-page .page-intro,.prices-page .price-heading,.prices-page .price-photo-note,.prices-page .price-note{text-align:center}
+ .prices-page .page-intro .section-subtitle{margin-inline:auto}
+ .prices-page .price-actions{align-items:center;justify-content:center}
+ .prices-page .category-nav{justify-content:center}
+ .prices-page .price-table-wrap tbody th,.prices-page .price-table-wrap tbody td{text-align:center}
+ .prices-page .price-table-wrap tbody tr{padding:28px 12px}
+ .prices-page .price-product{align-items:center}
+ .prices-page .price-product-gallery{margin-inline:auto}
+ .prices-page .price-product-gallery figcaption{text-align:center}
+ .prices-page .price-table-wrap tbody td:last-child a{justify-content:center}
+}
